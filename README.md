@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ArcPendragon
+- 🌱 I’m currently learning Python
+- 📫 How to reach me twitter @arcpendra
